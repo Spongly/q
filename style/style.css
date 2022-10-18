@@ -22,6 +22,10 @@ img {
   font-size: 20px;
 }
 
-.page {
-    color: yellow;
-} 
+a {
+  color: yellow;
+}
+
+.one {
+  color: yellow;
+}
