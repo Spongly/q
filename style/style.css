@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+}
+
+h1,
+h2 {
+  color: blue;
+}
+
+p {
+  color: red;
+  font-size: 25px;
+}
+
+img {
+  width: 3%;
+  height: auto;
+}
+
+.Email {
+  color: red;
+  font-size: 20px;
+}
